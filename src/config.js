@@ -44,13 +44,14 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="fa6-brands:python" className="display-4" />,
+    name: "Python",
+
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
+    name: "SQL",
   },
   {
     id: 3,
@@ -59,8 +60,8 @@ export const skillData = [
   },
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+    skill: <Icon icon="fa6-brands:unity" className="display-4" />,
+    name: "Unity",
   },
   {
     id: 5,
@@ -69,8 +70,8 @@ export const skillData = [
   },
   {
     id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
+    skill: <Icon icon="fa6-brands:aws" className="display-4" />,
+    name: "AWS",
   },
   {
     id: 7,
@@ -84,8 +85,8 @@ export const skillData = [
   },
   {
     id: 9,
-    skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
-    name: "GitHub",
+    skill: <Icon icon="fa6-brands:docker" className="display-4" />,
+    name: "Docker",
   },
 ];
 
