@@ -6,21 +6,21 @@ const items = [
   {
     id: 1,
     title: "Vision Based Robot Medical Equipment Manipulation",
-    img: "/robot.png",
+    img: "./robot.png",
     desc: "Built Object Detection Model with a self-made dataset of more than 500 images in Matlab. Trained YOLOv4 model and achieved Mean Average Precision of 88%. Robot Arm locates the object and picks it up!",
     link: "https://www.youtube.com/watch?v=wW1ouEXEjbY"
   },
   {
     id: 3,
     title: "Home Decor VR Game",
-    img: "/vr.png",
+    img: "./vr.png",
     desc: "Developed a Home Decor game in Unity where the user can place and manipulate different types of furniture in a room. Created the dataset. Ran ML model using Baracuda for Android.",
     link: "https://www.youtube.com/watch?v=wW1ouEXEjbY"
   },
   {
     id: 2,
     title: "Robot Automation For Chemical Synthesis",
-    img: "/mlsab.png",
+    img: "./mlsab.png",
     desc: "Working with Franka Emika robot arm using frankalib C++ library to pick up lab equipment such as test tubes and put them in lab equipment. Pressing all the required switches. Basically automating the synthesis process.",
   },
 

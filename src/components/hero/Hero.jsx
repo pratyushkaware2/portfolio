@@ -66,7 +66,7 @@ const Hero = () => {
           <motion.img
             variants={textVariants}
             animate="scrollButton"
-            src="/resume.png"
+            src="./resume.png"
             alt="scroll"
           />
           </a>
@@ -81,7 +81,7 @@ const Hero = () => {
         MSc. Computer Science
       </motion.div>
       <motion.div className="imageContainer" variants={textVariants} animate='imageRobot'>
-        <img src="/robot5.png" alt="" />
+        <img src="./robot5.png" alt="" />
       </motion.div>
     </div>
   );
