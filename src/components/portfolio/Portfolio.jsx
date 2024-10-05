@@ -8,7 +8,7 @@ const items = [
     title: "Vision Based Robot Medical Equipment Manipulation",
     img: "./robot.png",
     desc: "Built Object Detection Model with a self-made dataset of more than 500 images in Matlab. Trained YOLOv4 model and achieved Mean Average Precision of 88%. Robot Arm locates the object and picks it up!",
-    link: "https://www.youtube.com/watch?v=wW1ouEXEjbY"
+    link: "https://www.youtube.com/channel/UCDZa2Vt7_lk--4vSQvOtb_g"
   },
   {
     id: 3,
