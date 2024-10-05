@@ -22,6 +22,7 @@ const items = [
     title: "Robot Automation For Chemical Synthesis",
     img: "./mlsab.png",
     desc: "Working with Franka Emika robot arm using frankalib C++ library to pick up lab equipment such as test tubes and put them in lab equipment. Pressing all the required switches. Basically automating the synthesis process.",
+    link: "https://youtu.be/kHBJzev2H6Q"
   },
 
 ];
